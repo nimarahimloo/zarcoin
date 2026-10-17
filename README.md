@@ -1,2 +1,22 @@
-# zarcoin
-ZarCoin (ZAR) - A currency pegged to half the USD price, shown live in Iranian Rial/Toman
+# ZarCoin (ZAR)
+
+**ارز ZarCoin با قیمت ثابت نصف دلار آمریکا**
+
+## ویژگی‌ها
+- قیمت همیشه = **۰.۵ دلار**
+- نمایش لایو به **تومان** و **ریال**
+- به‌روزرسانی خودکار هر ۳۰ ثانیه
+
+## صفحه قیمت زنده
+فایل `index.html` را باز کنید یا GitHub Pages را فعال کنید:
+
+https://nimarahimloo.github.io/zarcoin/
+
+## نحوه کار
+قیمت ۱ ZarCoin همیشه دقیقاً **نصف نرخ دلار آزاد** محاسبه می‌شود و به تومان و ریال نمایش داده می‌شود.
+
+## ریپو
+https://github.com/nimarahimloo/zarcoin
+
+---
+ساخته شده برای نمایش قیمت لایو و ساده.
